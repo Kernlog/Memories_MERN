@@ -1,13 +1,12 @@
 # Memories
 
-![Memories](https://ibb.co/y4D5R7h)
-
+![Memories]
+![](images/front_page.JPG)
 ## Introduction
 
 Using MERN (MongoDB, Express, React, Node.js) "Memories" was created. This app is a simple social media app that allows users to post interesting events that happened in their lives.
 
 ## MERN Uses
-
 **MongoDB**
      * Database used to store posts & Username/Password if the account is created through the website rather than google auth
 **Express**
@@ -20,14 +19,14 @@ Using MERN (MongoDB, Express, React, Node.js) "Memories" was created. This app i
 ## Features
      * User-Authentication
           Done through importing GoogleLogin from 'react-google-login' or by searching database for existing username/pass by first checking bcrypt hashed passwords
+          ![](images/LoginPage.JPG)
      * Posting (With / Without image | Timestamped)
-     (https://ibb.co/WV1Kz1W)
+          ![](images/posting.JPG)
      * Liking / Unliking
-     (https://ibb.co/xJm0M3V)
+          ![](images/liking.JPG)
      * Browsing (Through Searching Memories, Searching Tags, Or By Page)
-     (https://ibb.co/SBnV3px)
+          ![](images/searchbytag.JPG)
      * Commenting On Posts
-     (https://ibb.co/MPvz9Lh)
+          ![](images/commentexample.JPG)
      * "You Might Also Like:" Recommended Posts Feature
-     (https://ibb.co/xXbP1cZ)
-
+          ![](images/Clickable_Youmightalsolike.JPG)
