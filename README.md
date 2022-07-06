@@ -19,8 +19,8 @@ Using MERN (MongoDB, Express, React, Node.js) "Memories" was created. This app i
 
      * User-Authentication
           Done through importing GoogleLogin from 'react-google-login' or by searching database for existing username/pass by first checking bcrypt hashed passwords
-          ![](images/LoginPage.JPG)   
-          ![](images/front_page.JPG)
+![](images/LoginPage.JPG)   
+         
      * Posting (With / Without image | Timestamped)
           ![](images/posting.JPG)
      * Liking / Unliking
