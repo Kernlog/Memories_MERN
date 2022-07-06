@@ -1,6 +1,5 @@
 # Memories
 
-![Memories]
 ![](images/front_page.JPG)
 ## Introduction
 
@@ -17,9 +16,11 @@ Using MERN (MongoDB, Express, React, Node.js) "Memories" was created. This app i
      * Used as the back-end API service for non-blocking, event-driven servers due to its single-threaded nature
 
 ## Features
+
      * User-Authentication
           Done through importing GoogleLogin from 'react-google-login' or by searching database for existing username/pass by first checking bcrypt hashed passwords
-          ![](images/LoginPage.JPG)
+          ![](images/LoginPage.JPG)   
+          ![](images/front_page.JPG)
      * Posting (With / Without image | Timestamped)
           ![](images/posting.JPG)
      * Liking / Unliking
